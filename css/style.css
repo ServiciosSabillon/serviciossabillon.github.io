@@ -1243,11 +1243,12 @@ ul.social_icont li a {
 
 .footer {
      padding-top: 90px;
-     background: url(../images/fondo2.jpg);
+     background: url(../images/fondo.jpg);
      background-size: 100% 100%;
      background-repeat: no-repeat;
      text-align: center;
      margin-top: 90px;
+     opacity: 0.4;
 }
 
 .logo2 {
